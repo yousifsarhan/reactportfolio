@@ -15,7 +15,8 @@ It is intentionally built without a backend to keep it fast, easy to maintain, a
 
 
 
-Features
+Features![Uploading Screenshot 2026-01-09 at 12.16.30 AM.png…]()
+
 
 * Personal introduction / profile
 * Skills and technologies section
