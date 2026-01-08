@@ -15,7 +15,7 @@ It is intentionally built without a backend to keep it fast, easy to maintain, a
 
 
 
-Features![Uploading Screenshot 2026-01-09 at 12.16.30 AM.png…]()
+
 
 
 * Personal introduction / profile
@@ -54,11 +54,13 @@ Running the Project Locally
 
 Option 1: Using VS Code (Recommended)
 
-1. Open the project folder in **VS Code**
-2. Install the **Live Server** extension
-3. Right-click `index.html`
-4. Select **Open with Live Server**
+1. Open the project folder in VS Code
+2. Install the Live Server extension
+3. Right-click index.html
+4. Select Open with Live Server
 
+<img width="1903" height="644" alt="Screenshot 2026-01-09 at 12 16 30 AM" src="https://github.com/user-attachments/assets/a5727840-00a5-4b81-a83d-501f74f55df1" />
+<img width="1903" height="882" alt="Screenshot 2026-01-09 at 12 16 20 AM" src="https://github.com/user-attachments/assets/493f33c7-3a20-4801-9488-e75beb571ef7" />
 
 
 Option 2: Using Terminal
@@ -67,10 +69,7 @@ bash
 python3 -m http.server 5500
 
 
-Then open:
 
-
-http://localhost:5500
 
 
 
